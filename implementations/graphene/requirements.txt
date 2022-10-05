@@ -3,7 +3,7 @@ click==7.1.2
 Flask==2.0.1
 graphene==3.1.1
 # graphene-federation==3.0.0
-graphene-federation @ git+https://github.com/strollby/graphene-federation.git@70b9476fba8e5a223247c2f23e98501616881c90
+graphene-federation @ git+https://github.com/strollby/graphene-federation.git@2438b3db8703c5f279c0764b3e3d5471cdde5a83
 graphql-core==3.2.3
 graphql-relay==3.2.0
 graphql-server==3.0.0b5
